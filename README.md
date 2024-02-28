@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @pluvio72
-- 👀 I’m interested in Machine Learning, Web Dev and Game Dev primarily, those are the sectors that brought me my love of programming. 
-- 🌱 I’m currently learning more about machine learning specifically Generative networks (GANs) as they have crazy potential and I would like to get more use out of them.
-- 💞️ I’m looking to collaborate on my project called UpLifting.
-- 📫 How to reach me -> pluvio72@gmx.com
+
